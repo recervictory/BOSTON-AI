@@ -1,5 +1,1 @@
-def isprimetest(num):
-    for i in range(2, num//2):
-        if num % i == 0:
-            return False
-    return True
+array = np.array([1,2,3,4,5,6,7,8,9,dtype = np.float])
